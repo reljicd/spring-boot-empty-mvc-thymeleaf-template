@@ -1,8 +1,10 @@
-# Spring Boot Empty MVC Template
+# Spring Boot Empty MVC Thymeleaf Template
 
 ## About
 
-This is an empty MVC template for quick bootstrapping of projects.
+This is an empty Spring Boot MVC Thymeleaf template for quick bootstrapping of Spring Boot projects.
+
+It was made using Spring Boot, Thymeleaf, Spring Data JPA, Spring Data REST. Database is in memory H2.
 
 ## How to run
 
